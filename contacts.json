@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "fullName": "Фамилия1",
+      "phoneNumber": "1111111"
+    },
+    {
+      "id": 2,
+      "fullName": "aaaa",
+      "phoneNumber": "1119939"
+    },
+    {
+      "id": 3,
+      "fullName": "Фамилияz",
+      "phoneNumber": "5666666"
+    },
+    {
+      "id": 4,
+      "fullName": "Фамилия",
+      "phoneNumber": "1111117"
+    },
+    {
+      "id": 5,
+      "fullName": "rrr",
+      "phoneNumber": "8798787"
+    }
+  ]
+}
