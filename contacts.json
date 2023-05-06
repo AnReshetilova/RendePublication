@@ -2,27 +2,27 @@
   "contacts": [
     {
       "id": 1,
-      "fullName": "Фамилия1",
+      "fullName": "user1",
       "phoneNumber": "1111111"
     },
     {
       "id": 2,
-      "fullName": "aaaa",
+      "fullName": "user2",
       "phoneNumber": "1119939"
     },
     {
       "id": 3,
-      "fullName": "Фамилияz",
+      "fullName": "user3",
       "phoneNumber": "5666666"
     },
     {
       "id": 4,
-      "fullName": "Фамилия",
+      "fullName": "user4",
       "phoneNumber": "1111117"
     },
     {
       "id": 5,
-      "fullName": "rrr",
+      "fullName": "user5",
       "phoneNumber": "8798787"
     }
   ]
